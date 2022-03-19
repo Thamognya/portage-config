@@ -728,3 +728,5 @@ x11-terms/cool-retro-term ~amd64
 =app-editors/neovim-9999 **
 # required by screenkey (argument)
 =x11-misc/screenkey-1.5 ~amd64
+# required by =net-p2p/qbittorrent-4.4.1-r1 (argument)
+=net-p2p/qbittorrent-4.4.1-r1 ~amd64
