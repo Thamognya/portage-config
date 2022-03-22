@@ -70,3 +70,7 @@
 # required by www-client/qutebrowser-2.4.0::gentoo[python_single_target_python3_9]
 # required by qutebrowser (argument)
 >=dev-qt/qtmultimedia-5.15.2-r2 widgets
+# required by dev-python/python-magic-0.4.24::gentoo
+# required by mail-client/alot-0.10::thamognya-overlay
+# required by alot (argument)
+>=sys-apps/file-5.41 -python

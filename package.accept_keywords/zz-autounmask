@@ -730,3 +730,9 @@ x11-terms/cool-retro-term ~amd64
 =x11-misc/screenkey-1.5 ~amd64
 # required by =net-p2p/qbittorrent-4.4.1-r1 (argument)
 =net-p2p/qbittorrent-4.4.1-r1 ~amd64
+# required by alot (argument)
+=mail-client/alot-0.10 ~amd64
+# required by fastfetch (argument)
+=sys-apps/fastfetch-9999 ~amd64
+# required by =sys-apps/fastfetch-1.0.0 (argument)
+=sys-apps/fastfetch-1.0.0 ~amd64
