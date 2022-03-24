@@ -736,3 +736,9 @@ x11-terms/cool-retro-term ~amd64
 =sys-apps/fastfetch-9999 ~amd64
 # required by =sys-apps/fastfetch-1.0.0 (argument)
 =sys-apps/fastfetch-1.0.0 ~amd64
+# required by picom-jonaburg (argument)
+=x11-misc/picom-jonaburg-9999 **
+# required by yaf (argument)
+=app-misc/yaf-0.0.3 ~amd64
+# required by yaf-bin (argument)
+=app-misc/yaf-bin-0.0.3 ~amd64
