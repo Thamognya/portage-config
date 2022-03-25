@@ -80,3 +80,8 @@
 # required by app-editors/neovim-0.6.0::gentoo[lua_single_target_luajit]
 # required by =app-editors/neovim-0.6.0 (argument)
 >=dev-lua/mpack-1.0.9-r1 lua_targets_luajit
+# required by app-editors/neovim-0.6.0::gentoo
+# required by =app-editors/neovim-0.6.0 (argument)
+>=dev-lua/luv-1.43.0.0 lua_single_target_luajit
+# required by =app-editors/neovim-0.6.0 (argument)
+=app-editors/neovim-0.6.0 -lua_single_target_luajit
