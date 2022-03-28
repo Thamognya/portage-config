@@ -723,9 +723,8 @@ x11-terms/cool-retro-term ~amd64
 # required by app-emulation/vagrant (argument)
 =dev-ruby/rubyzip-2.3.2 ~amd64
 # required by =app-editors/neovim-0.6.0 (argument)
-=app-editors/neovim-0.6.0 ~amd64
+app-editors/neovim **
 # required by =app-editors/neovim-9999 (argument)
-=app-editors/neovim-9999 **
 # required by screenkey (argument)
 =x11-misc/screenkey-1.5 ~amd64
 # required by =net-p2p/qbittorrent-4.4.1-r1 (argument)
@@ -742,3 +741,8 @@ x11-terms/cool-retro-term ~amd64
 =app-misc/yaf-0.0.3 ~amd64
 # required by yaf-bin (argument)
 =app-misc/yaf-bin-0.0.3 ~amd64
+# required by sys-config/ltoize (argument)
+sys-config/ltoize ~amd64
+app-portage/portage-bashrc-mv ~amd64
+app-shells/runtitle ~amd64
+sys-devel/gcc ~amd64
