@@ -746,3 +746,9 @@ sys-config/ltoize ~amd64
 app-portage/portage-bashrc-mv ~amd64
 app-shells/runtitle ~amd64
 sys-devel/gcc ~amd64
+# required by app-emulation/spike (argument)
+=app-emulation/spike-1.0.0 ~amd64
+# required by =app-admin/doas-6.8.2 (argument)
+=app-admin/doas-6.8.2 ~amd64
+# required by =app-containers/docker-compose-2.4.1 (argument)
+=app-containers/docker-compose-2.4.1 ~amd64
