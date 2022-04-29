@@ -768,3 +768,5 @@ sys-devel/gcc ~amd64
 =app-misc/terminal-colors-3.0.2 ~amd64
 # required by =sci-physics/bullet-3.22b (argument)
 =sci-physics/bullet-3.22b ~amd64
+# required by =app-misc/terminal-colors-9999 (argument)
+=app-misc/terminal-colors-9999 ~amd64
