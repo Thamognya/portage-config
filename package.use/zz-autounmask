@@ -509,3 +509,12 @@
 # required by virtual/wine-0-r7::gentoo
 # required by virtual/wine (argument)
 >=dev-libs/libusb-1.0.24-r2 abi_x86_32
+# required by www-apps/gitea-1.16.8::thamognya[acct]
+# required by =www-apps/gitea-1.16.8 (argument)
+>=acct-user/git-0-r2 gitea
+# required by media-video/uxplay-1.52::guru
+# required by media-video/uxplay (argument)
+>=net-dns/avahi-0.8-r5 mdnsresponder-compat
+# required by app-shells/fish-3.4.0::gentoo
+# required by fish (argument)
+>=dev-libs/libpcre2-10.40 pcre32

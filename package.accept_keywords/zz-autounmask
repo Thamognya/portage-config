@@ -770,3 +770,71 @@ sys-devel/gcc ~amd64
 =sci-physics/bullet-3.22b ~amd64
 # required by =app-misc/terminal-colors-9999 (argument)
 =app-misc/terminal-colors-9999 ~amd64
+# required by =net-fs/sshfs-3.7.2 (argument)
+=net-fs/sshfs-3.7.2 ~amd64
+# required by =net-fs/sshfs-9999 (argument)
+=net-fs/sshfs-9999 **
+# required by =dev-libs/libcs50-9999 (argument)
+=dev-libs/libcs50-9999 **
+# required by =app-editors/vscode-1.67.2 (argument)
+=app-editors/vscode-1.67.2 ~amd64
+# required by =www-apps/gitea-1.16.8 (argument)
+=www-apps/gitea-1.16.8 ~amd64
+# required by =www-apps/gitea-9999 (argument)
+=www-apps/gitea-9999 **
+# required by =app-misc/skim-0.9.4 (argument)
+=app-misc/skim-0.9.4 ~amd64
+# required by =app-misc/skim-9999 (argument)
+=app-misc/skim-9999 **
+# required by =dev-ml/react-1.2.2 (argument)
+=dev-ml/react-1.2.2 ~amd64
+# required by =app-emulation/spice-vdagent-0.22.1 (argument)
+=app-emulation/spice-vdagent-0.22.1 ~amd64
+# required by =dev-libs/yaz-5.32.0 (argument)
+=dev-libs/yaz-5.32.0 ~amd64
+# required by =dev-libs/yaz-9999 (argument)
+=dev-libs/yaz-9999 **
+# required by media-video/uxplay (argument)
+=media-video/uxplay-1.52 ~amd64
+# required by nerd-fonts (argument)
+=media-fonts/nerd-fonts-2.1.0 ~amd64
+# required by chromium-bin (argument)
+=www-client/chromium-bin-102.0.5005.61-r1 ~amd64
+# required by dev-ml/opam-core-2.0.9::gentoo
+# required by dev-ml/opam-format-2.0.9::gentoo
+# required by dev-ml/opam-installer-2.0.9::gentoo
+# required by dev-ml/react-1.2.2::thamognya
+# required by =dev-ml/react-1.2.2 (argument)
+=dev-ml/dune-1.11.4 ~amd64
+# required by =www-servers/uwsgi-2.0.20 (argument)
+=www-servers/uwsgi-2.0.20 ~amd64
+# required by =net-news/sfeed-1.5 (argument)
+=net-news/sfeed-1.5 ~amd64
+# required by =net-proxy/wwwoffle-2.9j (argument)
+=net-proxy/wwwoffle-2.9j ~amd64
+# required by google-cloud-sdk (argument)
+=app-misc/google-cloud-sdk-1.0 ~amd64
+# required by google-cloud-cli (argument)
+=app-misc/google-cloud-cli-390.0.0 ~amd64
+# required by =dev-lang/icon-9.5.21b (argument)
+=dev-lang/icon-9.5.21b ~amd64
+# required by dev-util/android-studio (argument)
+=dev-util/android-studio-2021.2.1.14 ~amd64
+# required by vivaldi-snapshot (argument)
+=www-client/vivaldi-snapshot-5.3.2679.50 ~amd64
+# required by =sci-physics/yoda-1.9.5 (argument)
+=sci-physics/yoda-1.9.5 ~amd64
+# required by =sci-astronomy/pal-0.9.8 (argument)
+=sci-astronomy/pal-0.9.8 ~amd64
+# required by =sci-astronomy/pal-0.9.7 (argument)
+=sci-astronomy/pal-0.9.7 ~amd64
+# required by peco (argument)
+=app-shells/peco-0.5.10 ~amd64
+# required by =dev-libs/libpfm-4.11.1 (argument)
+=dev-libs/libpfm-4.11.1 ~amd64
+# required by =net-p2p/opendchub-0.8.3 (argument)
+=net-p2p/opendchub-0.8.3 ~amd64
+# required by =net-p2p/opendchub-0.8.2-r1 (argument)
+=net-p2p/opendchub-0.8.2-r1 ~amd64
+# required by discord-canary-bin (argument)
+=net-im/discord-canary-bin-0.0.135 ~amd64
