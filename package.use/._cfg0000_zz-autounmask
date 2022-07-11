@@ -524,3 +524,20 @@
 # required by x11-terms/roxterm-3.12.1::thamognya
 # required by =x11-terms/roxterm-3.12.1 (argument)
 >=x11-libs/vte-0.68.0 vanilla
+# required by media-sound/pulseaudio-16.0::gentoo
+# required by app-emulation/wine-vanilla-7.0-r2::gentoo[pulseaudio]
+# required by virtual/wine-0-r7::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/libpulse-16.0 abi_x86_32
+# required by sys-fs/udev-250::gentoo
+# required by virtual/libudev-232-r7::gentoo[-systemd]
+# required by sys-auth/elogind-246.10-r2::gentoo
+# required by net-misc/modemmanager-1.18.8::gentoo[elogind]
+# required by net-misc/networkmanager-1.36.4::gentoo[modemmanager]
+# required by net-libs/libnma-1.8.38::gentoo
+# required by net-vpn/networkmanager-openvpn-1.8.18::gentoo[gtk]
+# required by net-vpn/nordvpn-3.11.0.1-r1::thamognya
+# required by @selected
+# required by @world (argument)
+>=sys-apps/systemd-utils-250.6 abi_x86_32

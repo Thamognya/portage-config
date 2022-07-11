@@ -838,3 +838,19 @@ sys-devel/gcc ~amd64
 =net-p2p/opendchub-0.8.2-r1 ~amd64
 # required by discord-canary-bin (argument)
 =net-im/discord-canary-bin-0.0.135 ~amd64
+# required by =app-text/jo-1.6 (argument)
+=app-text/jo-1.6 ~amd64
+# required by =app-text/jo-9999 (argument)
+=app-text/jo-9999 **
+# required by =x11-terms/roxterm-3.12.1 (argument)
+=x11-terms/roxterm-3.12.1 ~amd64
+# required by =x11-terms/roxterm-9999 (argument)
+=x11-terms/roxterm-9999 **
+# required by =media-gfx/img2pdf-0.4.4 (argument)
+=media-gfx/img2pdf-0.4.4 ~amd64
+# required by =net-fs/netatalk-3.1.13 (argument)
+=net-fs/netatalk-3.1.13 ~amd64
+# required by dart (argument)
+=sci-libs/dart-6.12.1-r2 ~amd64
+# required by chromium-bin (argument)
+=www-client/chromium-bin-102.0.5005.115 ~amd64
